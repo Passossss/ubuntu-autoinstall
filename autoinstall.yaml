@@ -1,0 +1,28 @@
+#cloud-config
+autoinstall:
+    version: 1
+    identity:
+        realname: 'Dionatan Simioni'
+        hostname: ubuntu-desktop
+        username: diolinux
+        password: '$6$8zD6PrOe$WQgPqK2cH6hH6lwLUbRkeA3yF9nPQFhg0Qpn9cZvm7t6zYoD0Uj7OLoC5eOL9GgG.qw6kLTXy4XxhA9PB6Ylo'
+    locale: pt_BR.utf8
+    keyboard:
+        layout: br
+    timezone: "America/Sao_Paulo"   
+    packages:
+        - libreoffice
+        - gimp
+        - git
+        - wget
+        - firefox
+    snaps:
+        - name: spotify
+          channel: stable
+          classic: false
+    codecs:
+        install: true
+    drivers:
+        install: true
+    updates: all
+    shutdown: reboot
