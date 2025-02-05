@@ -2,9 +2,9 @@
 autoinstall:
     version: 1
     identity:
-        realname: 'Dionatan Simioni'
+        realname: 'Gustavo Passos'
         hostname: ubuntu-desktop
-        username: diolinux
+        username: gulinux
         password: '$6$8zD6PrOe$WQgPqK2cH6hH6lwLUbRkeA3yF9nPQFhg0Qpn9cZvm7t6zYoD0Uj7OLoC5eOL9GgG.qw6kLTXy4XxhA9PB6Ylo'
     locale: pt_BR.utf8
     keyboard:
