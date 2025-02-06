@@ -5,7 +5,7 @@ autoinstall:
         realname: 'Gustavo Passos'
         hostname: ubuntu-desktop
         username: gulinux
-        password: '$6$8zD6PrOe$WQgPqK2cH6hH6lwLUbRkeA3yF9nPQFhg0Qpn9cZvm7t6zYoD0Uj7OLoC5eOL9GgG.qw6kLTXy4XxhA9PB6Ylo'
+        password: '$y$j9T$Yc/VDNQNhwlORNvfmcMzK/$llnh2p7VegJ8jFzMyPg98Yniy3ZTw8YhO38GTMENOq3'
     locale: pt_BR.utf8
     keyboard:
         layout: br
