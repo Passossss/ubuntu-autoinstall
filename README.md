@@ -1,8 +1,17 @@
 # Arquivo de Configuração de Autoinstalação do Ubuntu
 
-Este arquivo é um exemplo que pode ser usado como referência para suas próprias instalações automatizadas no Ubuntu.
+Este arquivo serve como exemplo e pode ser usado como referência para suas próprias **instalações automatizadas** no Ubuntu.
 
-https://www.notion.so/leovargas/Personalizando-a-interface-do-linux-53770b52282147c9978c436cc7aea971
+---
+
+## **Personalização do Ubuntu 20.04**
+
+Após a instalação, você pode conferir como personalizei o meu ambiente no **Ubuntu 20.04** para criar uma interface mais intuitiva e personalizada.
+
+👉 **Veja como fiz a personalização** [aqui](https://www.notion.so/Personalizando-a-interface-do-linux-194bd166ce5280478ccfdcc42a595887?pvs=4).
+
+---
+
 
 ### **Gerando a Senha Criptografada**
 Para que o Linux identifique e criptografe sua senha corretamente, utilize o seguinte comando para gerar uma senha criptografada:
