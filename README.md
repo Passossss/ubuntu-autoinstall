@@ -2,6 +2,8 @@
 
 Este arquivo é um exemplo que pode ser usado como referência para suas próprias instalações automatizadas no Ubuntu.
 
+https://www.notion.so/leovargas/Personalizando-a-interface-do-linux-53770b52282147c9978c436cc7aea971
+
 ### **Gerando a Senha Criptografada**
 Para que o Linux identifique e criptografe sua senha corretamente, utilize o seguinte comando para gerar uma senha criptografada:
 
